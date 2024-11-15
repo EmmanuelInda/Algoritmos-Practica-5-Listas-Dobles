@@ -1,0 +1,75 @@
+Zeus,Ζεύς,god,sky,"King of the gods and ruler of Mount Olympus, god of the sky, weather and law.",res/img/zeus.jpg
+Hera,Ἥρα,god,olympian,"Queen of the gods, goddess of marriage and family.",res/img/hera.jpg
+Poseidon,Ποσειδῶν,god,sea,"God of the sea, earthquakes, and horses.",res/img/poseidon.jpg
+Demeter,Δημήτηρ,god,chthonic,"Goddess of agriculture, fertility, and the harvest.",res/img/demeter.jpg
+Athena,Ἀθηνᾶ,god,olympian,"Goddess of wisdom, warfare, and strategy.",res/img/athena.jpg
+Apollo,Ἀπόλλων,god,sky,"God of the sun, music, prophecy, and healing.",res/img/apollo.jpg
+Artemis,Ἄρτεμις,god,sky,"Goddess of the hunt, wilderness, and the moon.",res/img/artemis.jpg
+Ares,Ἄρης,god,olympian,"God of war and violence.",res/img/ares.jpg
+Aphrodite,Ἀφροδίτη,god,olympian,"Goddess of love, beauty, and desire.",res/img/aphrodite.jpg
+Hephaestus,Ἥφαιστος,god,olympian,"God of fire, metalworking, and craftsmanship.",res/img/hephaestus.jpg
+Hermes,Ἑρμῆς,god,olympian,"Messenger of the gods, god of commerce and thieves.",res/img/hermes.jpg
+Hestia,Ἑστία,god,olympian,"Goddess of the hearth, home, and domesticity.",res/img/hestia.jpg
+Hades,ᾍδης,god,chthonic,"God of the underworld and the dead.",res/img/hades.jpg
+Cronus,Κρόνος,titan,primordial,"Leader of the Titans and father of Zeus.",res/img/cronus.jpg
+Rhea,Ῥέα,titan,chthonic,"Mother of the Olympian gods.",res/img/rhea.jpg
+Oceanus,Ὠκεανός,titan,sea,"Titan of the ocean and water bodies.",res/img/oceanus.jpg
+Hyperion,Ὑπερίων,titan,sky,"Titan of light and the sun.",res/img/hyperion.jpg
+Themis,Θέμις,titan,primordial,"Titaness of divine law and order.",res/img/themis.jpg
+Prometheus,Προμηθεύς,titan,chthonic,"Titan of forethought and creator of mankind.",res/img/prometheus.jpg
+Atlas,Ἄτλας,titan,sky,"Titan who holds up the heavens.",res/img/atlas.jpg
+Helios,Ἥλιος,god,sky,"God of the sun (predecessor to Apollo).",res/img/helios.jpg
+Selene,Σελήνη,god,sky,"Goddess of the moon (predecessor to Artemis).",res/img/selene.jpg
+Eos,Ἠώς,god,sky,"Goddess of the dawn.",res/img/eos.jpg
+Nyx,Νύξ,personification,primordial,"Personification of the night.",res/img/nyx.jpg
+Gaia,Γαῖα,personification,primordial,"Personification of the Earth and mother of all life.",res/img/gaia.jpg
+Uranus,Οὐρανός,personification,sky,"Personification of the sky.",res/img/uranus.jpg
+Erebus,Ἔρεβος,personification,chthonic,"Personification of darkness.",res/img/erebus.jpg
+Thanatos,Θάνατος,personification,chthonic,"Personification of death.",res/img/thanatos.jpg
+Hypnos,Ὕπνος,personification,chthonic,"Personification of sleep.",res/img/hypnos.jpg
+Eros,Ἔρως,personification,olympian,"Personification of love and desire.",res/img/eros.jpg
+Hebe,Ἥβη,god,olympian,"Goddess of youth and cupbearer to the gods.",res/img/hebe.jpg
+Iris,Ἶρις,god,olympian,"Goddess of the rainbow and messenger of the gods.",res/img/iris.jpg
+Nemesis,Νέμεσις,god,olympian,"Goddess of revenge and retribution.",res/img/nemesis.jpg
+Nike,Νίκη,god,olympian,"Goddess of victory.",res/img/nike.jpg
+Tyche,Τύχη,god,olympian,"Goddess of fortune and luck.",res/img/tyche.jpg
+Pan,Πάν,god,sea,"God of the wild, shepherds, and flocks.",res/img/pan.jpg
+Dionysus,Διόνυσος,god,olympian,"God of wine, pleasure, and festivity.",res/img/dionysus.jpg
+Persephone,Περσεφόνη,god,chthonic,"Goddess of spring and queen of the underworld.",res/img/persephone.jpg
+Eris,Ἔρις,god,chthonic,"Goddess of strife and discord.",res/img/eris.jpg
+Chiron,Χείρων,god,chthonic,"Wise centaur known for healing and teaching.",res/img/chiron.jpg
+Hecate,Ἑκάτη,god,chthonic,"Goddess of magic, witchcraft, and crossroads.",res/img/hecate.jpg
+Morpheus,Μορφεύς,personification,chthonic,"Personification of dreams.",res/img/morpheus.jpg
+Phobos,Φόβος,personification,chthonic,"Personification of fear.",res/img/phobos.jpg
+Deimos,Δεῖμος,personification,chthonic,"Personification of terror.",res/img/deimos.jpg
+Asclepius,Ἀσκληπιός,god,olympian,"God of healing and medicine.",res/img/asclepius.jpg
+Boreas,Βορέας,god,sky,"North wind god.",res/img/boreas.jpg
+Zephyrus,Ζέφυρος,god,sky,"West wind god.",res/img/zephyrus.jpg
+Notus,Νότος,god,sky,"South wind god.",res/img/notus.jpg
+Euros,Εὖρος,god,sky,"East wind god.",res/img/euros.jpg
+Aether,Αἰθήρ,personification,sky,"Personification of the upper air.",res/img/aether.jpg
+Thalassa,Θάλασσα,personification,sea,"Personification of the sea.",res/img/thalassa.jpg
+Tartarus,Τάρταρος,personification,chthonic,"Personification of the deepest part of the underworld.",res/img/tartarus.jpg
+Aion,Αἰών,personification,primordial,"Personification of time.",res/img/aion.jpg
+Phanes,Φάνης,personification,primordial,"Personification of procreation and creation.",res/img/phanes.jpg
+Melpomene,Μελπομένη,god,olympian,"Goddess of tragedy.",res/img/melpomene.jpg
+Terpsichore,Τερψιχόρη,god,olympian,"Goddess of dance and chorus.",res/img/terpsichore.jpg
+Euterpe,Εὐτέρπη,god,olympian,"Goddess of music.",res/img/euterpe.jpg
+Erato,Ἐράτω,god,olympian,"Goddess of love poetry.",res/img/erato.jpg
+Polyhymnia,Πολυύμνια,god,olympian,"Goddess of sacred poetry.",res/img/polyhymnia.jpg
+Urania,Οὐρανία,god,olympian,"Goddess of astronomy.",res/img/urania.jpg
+Calliope,Καλλιόπη,god,olympian,"Goddess of epic poetry.",res/img/calliope.jpg
+Clio,Κλειώ,god,olympian,"Goddess of history.",res/img/clio.jpg
+Sappho,Σαπφώ,personification,olympian,"Personification of lyric poetry.",res/img/sappho.jpg
+Ariadne,Ἀριάδνη,god,olympian,"Goddess of labyrinths and mazes.",res/img/ariadne.jpg
+Perseus,Περσέας,hero,olympian,"Slayer of Medusa and rescuer of Andromeda.",res/img/perseus.jpg
+Heracles,Ἡρακλῆς,hero,olympian,"Great hero known for the Twelve Labors.",res/img/heracles.jpg
+Achilles,Ἀχιλλεύς,hero,olympian,"Hero of the Trojan War, central figure in the Iliad.",res/img/achilles.jpg
+Odysseus,Ὀδυσσεύς,hero,olympian,"King of Ithaca and hero of the Odyssey.",res/img/odysseus.jpg
+Jason,Ἰάσων,hero,olympian,"Leader of the Argonauts in the quest for the Golden Fleece.",res/img/jason.jpg
+Theseus,Θησεύς,hero,olympian,"Hero who defeated the Minotaur and founded Athens.",res/img/theseus.jpg
+Atalanta,Ἀταλάντη,hero,olympian,"Heroine and skilled hunter who participated in the Calydonian Boar Hunt.",res/img/atalanta.jpg
+Orpheus,Ὀρφεύς,hero,olympian,"Legendary musician who attempted to retrieve his wife from the underworld.",res/img/orpheus.jpg
+Cadmus,Κάδμος,hero,olympian,"Founder of Thebes and slayer of the dragon.",res/img/cadmus.jpg
+Medea,Μήδεια,hero,olympian,"Powerful sorceress and wife of Jason.",res/img/medea.jpg
+Antigone,Ἀντιγόνη,hero,olympian,"Princess of Thebes and tragic heroine of Sophocles' play.",res/img/antigone.jpg
